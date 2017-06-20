@@ -24,8 +24,7 @@ window.location.href = d.list[0].dlink;
 
 ## ' > '输出重定向
 >    eg: 
-      echo "hello world"  > jielun	 //将hello world 输出到指定文件jielun中
-
+      echo "hello world"  > jielun //将hello world 输出到指定文件jielun中  
 ## ' >> '输出追加
 >    eg：
-      echo "hello world" >> jielun 	 //将内容追加到jielun中
+      echo "hello world" >> jielun //将内容追加到jielun中
