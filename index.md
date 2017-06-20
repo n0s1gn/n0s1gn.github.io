@@ -18,3 +18,13 @@ window.location.href = d.list[0].dlink;
 
 [时间壁纸预览](https://n0s1gn.github.io/timepaper/)  
 [源码](https://github.com/n0s1gn/timepaper)
+
+
+# 以下为Linux学习笔记
+
+## ' > '输出重定向
+    eg: 
+      echo "hello world"  > jielun	 //将hello world 输出到指定文件jielun中
+## ' >> '输出追加
+    eg：
+      echo "hello world" >> jielun 	 //将内容追加到jielun中
