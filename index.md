@@ -6,7 +6,7 @@
 [源码](https://github.com/n0s1gn/timepaper)
 
 
-# 为Linux学习笔记
+# Linux学习笔记
 
 ## 点亮LED灯
 
