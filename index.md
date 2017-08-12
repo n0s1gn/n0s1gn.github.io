@@ -8,7 +8,7 @@
 ## 照片墙
 
 <a href="https://n0s1gn.github.io/pic/" target="_blank">照片墙效果预览</a>  
-<a href="https://github.com/n0s1gn/pic" target="_blank">照片墙效果预览</a>  
+<a href="https://github.com/n0s1gn/pic" target="_blank">源码</a>  
 
 
  
