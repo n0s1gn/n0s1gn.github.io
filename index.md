@@ -1,5 +1,8 @@
 ## Study Notes
 
+## 博客（学习笔记）
+<a href="https://n0s1gn.github.io/microblog/" target="_blank">n0s1gn's Blog</a>
+
 ## 时间壁纸
 
 <a href="https://n0s1gn.github.io/timepaper/" target="_blank">时间壁纸预览</a>  
