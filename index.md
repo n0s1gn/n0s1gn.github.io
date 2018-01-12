@@ -14,7 +14,7 @@
 <a href="https://github.com/n0s1gn/pic" target="_blank">源码</a>  
 
 ## 个人信息系统
-<a href="https://n0s1gn.github.io/personalsetting/"  target="_blank">个人信息系统预览</a> 
+<a href="https://n0s1gn.github.io/personalsetting/"  target="_blank">个人信息系统预览</a>   
 <a href="https://github.com/n0s1gn/personalsetting" target="_blank">源码</a> 
 
  
